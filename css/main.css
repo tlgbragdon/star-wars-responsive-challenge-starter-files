@@ -1,0 +1,38 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+main {
+  padding-top: 100px;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+.header {
+  background-color: gold;
+  border: none;
+  margin-bottom: 40px;
+}
+
+
+.box {
+  border: 1px solid gray;
+  margin-bottom: 20px;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+p {
+  padding-left: 20px;
+}
+
+.name {
+  font-weight: 700;
+}
